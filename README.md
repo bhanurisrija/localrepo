@@ -1,4 +1,4 @@
-This ismy first repository.
+This is my first repository.
 <br>
 Authour-Bhanuri Srija
 <br>
